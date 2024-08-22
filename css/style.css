@@ -61,6 +61,7 @@
 
 html {
   scroll-behavior: smooth;
+  scroll-snap-type: center;
 }
 
 body {
